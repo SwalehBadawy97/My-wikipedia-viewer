@@ -1,0 +1,24 @@
+body{
+  background:url('https://images.template.net/wp-content/uploads/2015/11/25190500/White-Light-plain-Background-Design-Download.jpg');
+background-attachment:fixed;
+  
+  font-family:Dosis;
+}
+
+h2{
+  color:black;
+  padding-top:1%;
+  padding-left:1%;
+}
+a{
+  color:white;
+}
+p{
+  padding-bottom:1%;
+  padding-left:1%;
+  font-size:25px;
+}
+button{
+  margin:1px;
+  
+}
